@@ -8,17 +8,29 @@
         <outputRelativeToContentRoot value="true" />
         <module name="task5" />
         <module name="task6" />
+        <module name="task8" />
+        <module name="plugin1" />
+        <module name="plugin2" />
+        <module name="plugin-manager" />
         <module name="task1" />
+        <module name="plugin-api" />
         <module name="task2" />
         <module name="task3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="plugin-api" target="11" />
+      <module name="plugin-manager" target="11" />
+      <module name="plugin1" target="11" />
+      <module name="plugin2" target="11" />
+      <module name="plugins" target="11" />
       <module name="task1" target="11" />
       <module name="task2" target="11" />
       <module name="task3" target="11" />
       <module name="task5" target="11" />
       <module name="task6" target="11" />
+      <module name="task7" target="11" />
+      <module name="task8" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -8,7 +8,16 @@
         <option value="$PROJECT_DIR$/task3/pom.xml" />
         <option value="$PROJECT_DIR$/task5/pom.xml" />
         <option value="$PROJECT_DIR$/task6/pom.xml" />
+        <option value="$PROJECT_DIR$/task7/pom.xml" />
+        <option value="$PROJECT_DIR$/task8/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/task7/plugins/plugin1/pom.xml" />
+        <option value="$PROJECT_DIR$/task7/plugins/plugin2/pom.xml" />
+        <option value="$PROJECT_DIR$/task7/plugins/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager">
