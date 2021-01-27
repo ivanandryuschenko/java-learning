@@ -9,6 +9,7 @@
         <module name="task5" />
         <module name="task6" />
         <module name="task8" />
+        <module name="task9" />
         <module name="plugin1" />
         <module name="plugin2" />
         <module name="plugin-manager" />
@@ -31,6 +32,7 @@
       <module name="task6" target="11" />
       <module name="task7" target="11" />
       <module name="task8" target="11" />
+      <module name="task9" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
