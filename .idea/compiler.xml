@@ -12,7 +12,9 @@
         <module name="task9" />
         <module name="plugin1" />
         <module name="plugin2" />
+        <module name="task10" />
         <module name="plugin-manager" />
+        <module name="task11" />
         <module name="task1" />
         <module name="plugin-api" />
         <module name="task2" />
@@ -26,6 +28,8 @@
       <module name="plugin2" target="11" />
       <module name="plugins" target="11" />
       <module name="task1" target="11" />
+      <module name="task10" target="11" />
+      <module name="task11" target="11" />
       <module name="task2" target="11" />
       <module name="task3" target="11" />
       <module name="task5" target="11" />
